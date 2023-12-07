@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WNkf9fUWWDzzvIfVJL5KmSwgH5b4dZjIgJ/PyfkZghKVKigCfZqtKmBEHNplzBTvoaGaZDqu8sX9nprsgXW6Q==",
+  "success": true,
+  "projectFilePath": "/Users/raphaelcordon/Drive/DotNet/Studies/2023/MessageBrokerRabbitMQ/Producer/Producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaelcordon/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.configuration/3.1.12/microsoft.extensions.configuration.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.12/microsoft.extensions.configuration.abstractions.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.configuration.binder/3.1.12/microsoft.extensions.configuration.binder.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.12/microsoft.extensions.dependencyinjection.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.12/microsoft.extensions.dependencyinjection.abstractions.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.12/microsoft.extensions.fileproviders.abstractions.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.hosting.abstractions/3.1.12/microsoft.extensions.hosting.abstractions.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.logging/3.1.12/microsoft.extensions.logging.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.12/microsoft.extensions.logging.abstractions.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.options/3.1.12/microsoft.extensions.options.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.extensions.primitives/3.1.12/microsoft.extensions.primitives.3.1.12.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/rabbitmq.client/6.7.0/rabbitmq.client.6.7.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/rabbitmq.client.core.dependencyinjection/5.0.0/rabbitmq.client.core.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/raphaelcordon/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
